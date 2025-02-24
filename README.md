@@ -10,9 +10,14 @@ This guide is for developers setting up a tokenized NextJS app using the [metal.
 
 - [pnpm](https://pnpm.io/installation) (`npm install -g pnpm@latest-10`)
 - Vercel CLI (`pnpm i -g vercel`)
-- Privy API key
-- Replicate API key
-- Prisma DB (vercel hosted)
+
+## Dependencies
+
+- [Privy](https://www.privy.io/) - Wallet management
+- [Replicate] - AI image generator
+- [Prisma DB] - Storage (vercel hosted)
+- [Neynar] - Farcaster auth support
+- [Twitter] - Twitter auth support
 
 ## Initial Setup
 
